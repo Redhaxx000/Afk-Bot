@@ -1,13 +1,13 @@
 {
   "bot-account": {
-    "username": "xoi",
+    "username": "Vanir",
     "password": "",
     "type": "microsoft"
   },
 
   "server": {
-    "ip": "vanirsmp.aternos.me",
-    "port": 15690,
+    "ip": "vanir2025.aternos.me",
+    "port": 46458,
     "version": "1.19.3"
   },
 
