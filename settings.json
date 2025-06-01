@@ -1,8 +1,8 @@
 {
   "bot-account": {
     "username": "xoi",
-    "password": "your_password",
-    "type": "microsoft"
+    "password": "",
+    "type": "mojang"
   },
 
   "server": {
